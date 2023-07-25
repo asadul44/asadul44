@@ -1,7 +1,8 @@
 
 👋 Hello, I'm Asadul Islam!
-Profile Picture
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 🌟 About Me
 I am a passionate Full Stack Developer with expertise in TypeScript, Next.js, React, n8n, TailwindCSS, and Node.js. I love building scalable and efficient web applications that deliver seamless user experiences.
 
@@ -15,7 +16,7 @@ n8n
 TailwindCSS
 Node.js
 📫 Contact
-Email: youremail@example.com
+Email: islamasaadul327@gmail.com
 LinkedIn: Your LinkedIn Profile
 GitHub: Your GitHub Profile
 🌱 Personal Statement
