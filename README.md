@@ -13,7 +13,7 @@ I am a passionate Full Stack Developer with expertise in TypeScript, Next.js, Re
 
 - Full Stack Developer at Bit Software Solutions Ltd.
 
-## Skills
+## 🌟Skills
 
 - TypeScript
 - Next.js
