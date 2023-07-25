@@ -1,6 +1,7 @@
 
 
 # 👋 Hello, I'm Asadul Islam! - Full Stack Developer
+
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -20,12 +21,16 @@ I am a passionate Full Stack Developer with expertise in TypeScript, Next.js, Re
 - n8n
 - TailwindCSS
 - Node.js
+- n8n
+- Strapi Cms
+- Hasura
+- Prisma
+- SQL ( PostgreSQL, MySQL)
+- NoSQL (Firebase,MongoDB)
 
 ## Contact
 
-- Email: youremail@example.com
-- LinkedIn: [Your LinkedIn Profile](URL_TO_YOUR_LINKEDIN_PROFILE)
-- GitHub: [Your GitHub Profile](URL_TO_YOUR_GITHUB_PROFILE)
+- Email: islamasadul327@gmail.com
 
 ## Personal Statement
 
