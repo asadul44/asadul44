@@ -1,6 +1,6 @@
 
 
-# 👋 Hello, I'm Asadul Islam! - Full Stack Developer
+# 👋 Hello, I'm Asadul Islam - Full Stack Developer
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -14,19 +14,21 @@ I am a passionate Full Stack Developer with expertise in TypeScript, Next.js, Re
 - Full Stack Developer at Bit Software Solutions Ltd.
 
 ## 🌟Skills
-
-- TypeScript
-- Next.js
+Frontent
 - React
-- n8n
+- Next.js
+- TypeScript
 - TailwindCSS
 - Node.js
 - n8n
 - Strapi Cms
-- Hasura
+- Hasura GraphQL
 - Prisma
 - SQL ( PostgreSQL, MySQL)
 - NoSQL (Firebase,MongoDB)
+- Node js
+- Langchain with Chatgpt
+- Nest js
 
 ## Contact
 
