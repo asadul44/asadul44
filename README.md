@@ -37,7 +37,7 @@ I am a passionate Full Stack Developer with expertise in TypeScript, Next.js, Re
 - NoSQL (Firebase, MongoDB)
 
 **Other:**
-- Langchainjs with ChatGPT
+- Langchainjs with ChatGPT + Flowise
 
 
 ## Contact
