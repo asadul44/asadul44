@@ -10,11 +10,12 @@ I am a passionate Full Stack Developer with expertise in TypeScript, Next.js, Re
 
 ## Work Experience
 
-- **Full Stack Developer** at Bit Software Solutions Ltd.
+- **Full Stack Developer** at Bit Software Solutions Ltd.from 01/01/2020 to the present.
 
 ## 🌟 Skills
 **Frontend:**
-- React
+- Javascript
+- React js
 - Next.js
 - TypeScript
 - TailwindCSS
@@ -35,9 +36,11 @@ I am a passionate Full Stack Developer with expertise in TypeScript, Next.js, Re
 **Databases:**
 - SQL (PostgreSQL, MySQL,Oracle(11g))
 - NoSQL (Firebase, MongoDB)
+- Duckdb
 
 **Other:**
 - Langchainjs with ChatGPT + Flowise
+- Data pipeline with mage(python)
 
 
 ## Contact
