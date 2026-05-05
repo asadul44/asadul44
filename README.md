@@ -6,7 +6,7 @@
 I’m a Senior React Native Developer with 6+ years of experience creating high-performance, scalable mobile apps for Android and iOS. I specialize in React Native, TypeScript, and modern full-stack technologies, focusing on performance, clean architecture, and great user experiences. I also build backend systems and automation workflows to deliver end-to-end solutions.
 
 💼 Work Experience  
-Full Stack Developer  
+Senior React Native & Full Stack Developer   
 🏢 Bit Software Solutions Ltd.  
 📅 Jan 2020 – Present
 
