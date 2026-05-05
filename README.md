@@ -1,56 +1,62 @@
-# Hello, I'm Asadul Islam - Full Stack Developer
+Hello, I'm Asadul Islam – Senior React Native & Full Stack Developer
+<div id="header" align="left"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
+About Me
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+I’m a Senior React Native Developer with 6+ years of experience building high-performance, scalable mobile applications for Android and iOS.
 
-## About Me
+I specialize in React Native, TypeScript, and modern full-stack development, with a strong focus on performance, clean architecture, and user experience. I also work with backend systems and automation tools to deliver complete end-to-end solutions.
 
-I am a passionate Full Stack Developer with expertise in TypeScript, Next.js, React, n8n, TailwindCSS, and Node.js. I love building scalable and efficient web applications that deliver seamless user experiences.
+Work Experience
+Full Stack Developer
+Bit Software Solutions Ltd.
+📅 Jan 2020 – Present
+🚀 Core Skills
+📱 Mobile Development
+React Native (6+ years)
+Android (Java)
+Cross-platform app architecture
+Performance optimization & debugging
+🌐 Frontend
+JavaScript (ES6+)
+TypeScript
+React.js
+Next.js
+Tailwind CSS
+Ant Design / Bootstrap / Semantic UI
 
-## Work Experience
+⚙️ Backend
+Node.js
+Express.js / Koa.js
+NestJS
+Strapi CMS
+Hasura GraphQL
+REST & GraphQL API design
+🗄️ Databases
+PostgreSQL, MySQL, Oracle
+MongoDB, Firebase
+DuckDB
+🧠 Automation & AI
+n8n / Workflow automation
+LangChain (JS) + LLM integration
+Flowise
+Data pipelines (Mage – Python)
 
-- **Full Stack Developer** at Bit Software Solutions Ltd.from 01/01/2020 to the present.
+💡 What I Bring
+Strong experience in production-level mobile apps
+Ability to design scalable architectures
+Clean, maintainable, and well-structured code
+Fast problem-solving and debugging skills
+Experience integrating payment systems, APIs, and third-party services
+📫 Contact
+📧 Email: islamasadul327@gmail.com
+Personal Statement
 
-## 🌟 Skills
-**Frontend:**
-- Javascript
-- React js
-- Next.js
-- TypeScript
-- TailwindCSS
-- Bootstrap
-- Ant Design
-- React Semantic UI
-  
-**Backend:**
-- Node.js
-- Express js
-- Koa js
-- N8N Webflow
-- Strapi CMS(Node js)
-- Hasura GraphQL Engine
-- Prisma
-- Nest.js
-- 
-**Databases:**
-- SQL (PostgreSQL, MySQL,Oracle(11g))
-- NoSQL (Firebase, MongoDB)
-- Duckdb
+I’m always exploring new technologies and improving my skills to stay ahead in the fast-evolving development ecosystem. I enjoy building products that solve real-world problems and deliver meaningful user experiences.
 
-**Other:**
-- Langchainjs with ChatGPT + Flowise
-- Data pipeline with mage(python)
+🤝 Let’s Connect
 
+I’m open to:
 
-## Contact
-- **Email:** islamasadul327@gmail.com
-
-## Personal Statement
-
-I am constantly seeking opportunities to learn and grow as a developer. I'm passionate about leveraging cutting-edge technologies to solve real-world problems and am always eager to collaborate on exciting projects.
-
-## Let's Connect
-
-Feel free to reach out to me for any collaboration, job opportunities, or just to say hi! I'm excited to connect and create something amazing together.
-
+Remote opportunities
+Freelance projects
+Collaboration on innovative ideas
